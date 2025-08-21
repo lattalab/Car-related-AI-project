@@ -1,0 +1,5 @@
+1. 行駛聲(車內聽到) Car driving (driver's view)
+2. 行駛聲(車外聽到) Car driving (record outside the car)
+3. 機車引琴聲 scooter engine sound
+4. 汽車引琴聲 car engine sound
+5. 車禍 car accident
